@@ -18,7 +18,7 @@ A robust, enterprise-grade Desktop Quiz application built purely using Java Swin
 Generated for Professional Portfolio & College Submissions.
 
 # Project Structure
-```text
+```
 QuizApplication/
 ├── src/
 │   └── quiz/
@@ -50,4 +50,6 @@ QuizApplication/
 │           ├── RoundedButton.java
 │           └── GradientPanel.java
 └── README.md
+```
+
 
