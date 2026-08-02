@@ -16,3 +16,39 @@ A robust, enterprise-grade Desktop Quiz application built purely using Java Swin
 
 ## Author
 Generated for Professional Portfolio & College Submissions.
+
+# Project Structure
+``
+QuizApplication/
+├── src/
+│   └── quiz/
+│       ├── main/
+│       │   └── Main.java
+│       ├── model/
+│       │   ├── Question.java
+│       │   ├── Student.java
+│       │   └── Result.java
+│       ├── view/
+│       │   ├── SplashScreen.java
+│       │   ├── LoginFrame.java
+│       │   ├── DashboardFrame.java
+│       │   ├── QuizFrame.java
+│       │   ├── ResultFrame.java
+│       │   └── ReviewFrame.java
+│       ├── controller/
+│       │   └── AppController.java
+│       ├── service/
+│       │   ├── QuizService.java
+│       │   └── TimerService.java
+│       ├── repository/
+│       │   └── QuestionRepository.java
+│       ├── util/
+│       │   ├── Constants.java
+│       │   ├── Theme.java
+│       │   └── Validator.java
+│       └── components/
+│           ├── RoundedButton.java
+│           └── GradientPanel.java
+└── README.md
+
+``
